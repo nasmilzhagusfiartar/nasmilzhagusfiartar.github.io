@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
       title: "Desa Digital",
       description:
         "A full-stack web application simulating a digital platform for village services, with a focus on API security.",
-      image: "../Assets/porto/desa/desaHome.png",
+      image: "Assets/porto/desa/desaHome.png",
       tags: ["Vue.js", "Laravel", "API Security"],
       link: "Views/desadigital.html",
     },
@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
       title: "Flappy Bird Clone",
       description:
         "A classic game clone built with Python to explore game loops, physics, and collision detection.",
-      image: "../Assets/porto/flappy/flappyHome.png",
+      image: "Assets/porto/flappy/flappyHome.png",
       tags: ["Python", "Game Dev"],
       link: "Views/flappybird.html",
     },
@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
       title: "Gemini AI Android App",
       description:
         "An Android app integrating Google's Gemini AI, exploring mobile development and LLM applications.",
-      image: "../Assets/porto/gemini/geminiHome.png",
+      image: "Assets/porto/gemini/geminiHome.png",
       tags: ["Java", "Android", "AI/ML"],
       link: "Views/geminiproject.html",
     },
@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", () => {
       title: "Inventory Management App",
       description:
         "A Java-based desktop application for managing product data, focusing on CRUD and data integrity.",
-      image: "../Assets/porto/barang/java1.png",
+      image: "Assets/porto/barang/java1.png",
       tags: ["Java", "Desktop App"],
       link: "Views/javaBarang.html",
     },
@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
       title: "Translator Android App",
       description:
         "A simple translator app for Android using the Google Translate API to explore API integration.",
-      image: "../Assets/porto/translate/translateHome.png",
+      image: "Assets/porto/translate/translateHome.png",
       tags: ["Java", "Android", "API"],
       link: "Views/translateandro.html",
     },
@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
       title: "Digital Wedding Invitation",
       description:
         "A responsive and elegant digital wedding invitation website with a focus on user experience.",
-      image: "../Assets/porto/wedding/weddingHome.png",
+      image: "Assets/porto/wedding/weddingHome.png",
       tags: ["JavaScript", "Bootstrap"],
       link: "Views/wedding.html",
     },
@@ -52,7 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
       title: "Chicken Steak Website",
       description:
         "A promotional website for a local steakhouse, focusing on branding and online presence.",
-      image: "../Assets/porto/acs/acsHome.png",
+      image: "Assets/porto/acs/acsHome.png",
       tags: ["JavaScript", "Bootstrap"],
       link: "Views/chickensteak.html",
     },
